@@ -9,10 +9,15 @@
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_article/main/article2.jpg"
       },
+      {
+         "type":"pdf",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_ews/main/file1.pdf"
+      },
            
       {
          "type":"youtube",
          "Id":"R4P2UTgYebg"
        }
    ]
+
  }
